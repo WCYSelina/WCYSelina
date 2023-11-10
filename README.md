@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ching Yee Selina Wong</h1>
-
+🌱 I’m currently learning: Computer Science
 - 📫 How to reach me **selinawong13r@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
