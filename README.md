@@ -1,6 +1,6 @@
 <h2 align="left">Hi 👋! My name is Ching Yee Selina Wong</h2>
 
-- 🌱 I’m currently learning: Computer Science
+- 🌱 I’m currently learning Computer Science in Monash University
 - 📫 How to reach me **selinawong13r@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
